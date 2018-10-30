@@ -1,3 +1,4 @@
+call gitbook build
 cd _book
 git init
 git checkout -b gh-pages

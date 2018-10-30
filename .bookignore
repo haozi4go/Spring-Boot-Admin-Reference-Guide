@@ -1,0 +1,7 @@
+# ignore deploy script files 
+*.bat
+*.sh
+
+# ignore .ignore files
+.gitignore
+.bookignore
