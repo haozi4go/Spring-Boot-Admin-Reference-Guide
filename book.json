@@ -1,0 +1,29 @@
+{
+	"title" : "Spring Boot Admin",
+	"author" : "haozi",
+	"description" : "",
+    "language" : "zh-hans",
+	"links" : {
+		"sidebar" : {
+			"博客" : "https://blog.chuangzhi8.cn"
+		}
+	},
+    "plugins": [
+        "-search",
+        "search-pro",
+        "include-codeblock",
+		"splitter",
+		"github",
+		"anchor-navigation-ex-toc"
+		
+    ],
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord" : ["Gitbook Use"]
+    	},
+		"github" : {
+			"url" : "https://github.com/haozi4go/Spring-Boot-Admin-Reference-Guide"
+		}
+    }
+}
