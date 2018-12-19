@@ -25,5 +25,8 @@
 		"github" : {
 			"url" : "https://github.com/haozi4go/Spring-Boot-Admin-Reference-Guide"
 		}
-    }
+    },
+	"styles": {
+		"website": "styles/website.css"
+	}
 }
