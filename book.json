@@ -14,7 +14,8 @@
         "include-codeblock",
 		"splitter",
 		"github",
-		"anchor-navigation-ex-toc"
+		"anchor-navigation-ex-toc",
+		"theme-faq"
 		
     ],
     "pluginsConfig": {
