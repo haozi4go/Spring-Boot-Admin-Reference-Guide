@@ -15,7 +15,8 @@
 		"splitter",
 		"github",
 		"anchor-navigation-ex-toc",
-		"theme-faq"
+		"theme-faq",
+		"addcssjs"
 		
     ],
     "pluginsConfig": {
@@ -25,6 +26,10 @@
     	},
 		"github" : {
 			"url" : "https://github.com/haozi4go/Spring-Boot-Admin-Reference-Guide"
+		},
+		"addcssjs": {
+			"js": ["js/custom.js"],
+			"css": ["css/custom.css"]
 		}
     },
 	"styles": {
