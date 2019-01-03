@@ -15,8 +15,9 @@
 		"splitter",
 		"github",
 		"anchor-navigation-ex-toc",
-		"theme-faq",
-		"addcssjs"
+		"-theme-faq",
+		"addcssjs",
+		"baidu-tongji"
 		
     ],
     "pluginsConfig": {
@@ -30,7 +31,10 @@
 		"addcssjs": {
 			"js": ["js/custom.js"],
 			"css": ["css/custom.css"]
-		}
+		},
+		"baidu-tongji": {
+            "token": "629d0c722f771bdf038e4262be2d8aca"
+        }
     },
 	"styles": {
 		"website": "styles/website.css"
