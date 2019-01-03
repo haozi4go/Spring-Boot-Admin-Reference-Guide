@@ -17,7 +17,9 @@
 		"anchor-navigation-ex-toc",
 		"-theme-faq",
 		"addcssjs",
-		"baidu-tongji"
+		"baidu-tongji",
+		"copy-code-button",
+		"page-footer-copyright"
 		
     ],
     "pluginsConfig": {
